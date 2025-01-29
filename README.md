@@ -12,5 +12,7 @@ Visualization: The project includes a histogram to visualize the number of times
 HOW TO USE
 
 1.Clone the repository.
+
 2.Place the Ads_CTR_Optimisation.csv dataset file in the same directory as the Python script.
+
 3.Run the script to see the algorithm in action and the histogram displaying ad selections.
